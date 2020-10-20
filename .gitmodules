@@ -1,0 +1,3 @@
+[submodule "ssvm-tencent-starter"]
+	path = ssvm-tencent-starter
+	url = https://github.com/second-state/ssvm-tencent-starter.git
